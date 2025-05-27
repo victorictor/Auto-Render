@@ -20,7 +20,7 @@ After the addon appears in the list, check the box next to its name to activate 
    
 1. The Auto render tab will have __3 property widgets__ to configure
 
-;<img 
+<img 
   src="https://github.com/user-attachments/assets/f3d44c1f-95eb-4b06-9fd3-7d1c97ce663b" 
   alt="Property widgets" 
   align="left" 
