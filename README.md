@@ -16,8 +16,10 @@ After the addon appears in the list, check the box next to its name to activate 
 1. On the right side of the 3D Viewport: __Sidebar (or “N-panel”)__ click on the __“Auto Render”__ tab
 <li>
 1. The Auto render tab will have __3 property widgets__ to configure
+  
 <img src= https://github.com/user-attachments/assets/287730b9-106a-40cb-8829-fd283e019033>
 </li>
+
 * Directory: Sets the saved location of renders
 * Camera: Set which camera will render
 * Interval: Sets the time interval between each render image
