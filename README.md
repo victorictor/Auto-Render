@@ -5,7 +5,7 @@ This add-on was created to save the modeling process, and seeks simplicity in ha
 
 ## How to install
 
-1. Download the [zipped file](https://github.com/victorictor/Auto-Render/releases/tag/v1.2.4) or download the repository and zip it manually
+1. Download the [zipped file](https://github.com/victorictor/Auto-Render/releases/download/v1.2.4/Auto.Render.zip) or download the repository and zip it manually
    
 1. In *Edit > Preferences > Addons* click __Install from Disk...__
    
