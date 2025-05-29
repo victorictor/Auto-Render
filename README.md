@@ -3,6 +3,8 @@
 
 This add-on was created to save the modeling process, and seeks simplicity in handling.
 
+**Blender Version: 4.4.0**
+
 ## How to install
 
 1. Download the [zipped file](https://github.com/victorictor/Auto-Render/releases/download/v1.2.4/Auto.Render.zip) or download the repository and zip it manually
