@@ -2,7 +2,7 @@ bl_info = {
     "name":        "Auto Render",
     "author":      "Valfredo Victor",
     "version":     (1, 3, 0),
-    "blender":     (4, 4, 0),
+    "blender":     (4, 2, 0),
     "location":    "3D View · Sidebar",
     "description": "This addon creates a render by the scene camera every set second",
     "category":    "Render",
