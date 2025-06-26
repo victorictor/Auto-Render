@@ -3,7 +3,7 @@
 
 This add-on was created to save the modeling process, and seeks simplicity in handling.
 
-**Blender Version: 4.4.0**
+Works on **Blender Version: 4.2.0** to **Blender 4.4.0**
 
 ## How to install
 
