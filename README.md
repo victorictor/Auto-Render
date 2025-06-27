@@ -3,7 +3,11 @@
 
 This add-on was created to save the modeling process, and seeks simplicity in handling.
 
-Works on **Blender Version: 4.2.0** to **Blender 4.4.0**
+### how it works:
+
+![2025-06-2713-28-15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/851d37f6-78a1-48ef-b76c-36407c092e3d)
+
+Works on **Blender 4.2.0** to **Blender 4.4.0**
 
 ## How to install
 
@@ -38,10 +42,6 @@ After the addon appears in the list, check the box next to its name to activate 
 3. After configuring all properties, just click on __Start Auto Render__ 
 
 have fun ;)
-
-## How works
-
-![2025-06-2713-28-15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/851d37f6-78a1-48ef-b76c-36407c092e3d)
 
 
 
