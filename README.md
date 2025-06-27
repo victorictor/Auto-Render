@@ -39,5 +39,9 @@ After the addon appears in the list, check the box next to its name to activate 
 
 have fun ;)
 
+## How works
+
+![2025-06-2713-28-15-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/851d37f6-78a1-48ef-b76c-36407c092e3d)
+
 
 
